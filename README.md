@@ -166,7 +166,7 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 8px;" 
     src="https://github-readme-stats.vercel.app/api?username=imfelipegomes&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
@@ -174,7 +174,7 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfelipegomes&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
