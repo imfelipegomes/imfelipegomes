@@ -162,12 +162,12 @@ Estou em processo de migração de carreira para desenvolvimento. Minha carreira
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api?username=imfelipegomes&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfelipegomes&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
