@@ -162,7 +162,7 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 7px;" 
+    style="padding-right: 6px;" 
     src="https://github-readme-stats.vercel.app/api?username=imfelipegomes&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
 
