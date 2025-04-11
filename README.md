@@ -8,7 +8,7 @@ Estou em processo de migração de carreira para desenvolvimento. Minha carreira
 <br/>
 <br/>
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://instagram.com/cla.codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipe.agomesdelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/imfelipegomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
