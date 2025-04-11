@@ -6,6 +6,13 @@ Me chamo Felipe Alves Gomes de Lima, tenho 28 anos e sou natural de Santo André
 Estou em processo de migração de carreira para desenvolvimento. Minha área atual é como profissional de E-commerce, tenho 7 anos de experiência na área e meu cargo atualmente é de Supervisor. Com minha experiência de e-commerce ao longo dos últimos 7 anos, vivenciei e participei de projetos criados do absoluto zero, como criação de sites, lojas virtuais e blogs, além de sempre estar em contato com agências de desenvolvimento web e ver de perto todo processo de criação com código e design ux/ui. Com isso, adquiri muita experiência com plataformas de Marketplaces, Lojas Virtuais, ERPs, WordPress, Elementor, Divi, HTML, CSS e JavaScript.
 
 <br/>
+# Soft Skills que adiquiri ao longo dos anos:
+💡 Extremamente criativo
+🧠 Pensamento lógico para solucionar problemas críticos e criar soluções e processos
+⏱️ Psicologicamente preparado em lidar com pressão, prazos e metas
+🎯 Perfil análítico e estratégico para acelerar nossos resultados e conquistar objetivos
+
+<br/>
 <br/>
 
 <div align="left"> 
