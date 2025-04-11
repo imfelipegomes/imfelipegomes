@@ -1,5 +1,4 @@
-# Hello, World!🌎
-# ✌️🧔🏻‍♂️ Eu sou Felipe Gomes
+# Hello, World! 🌎✌️🧔🏻‍♂️ Eu sou Felipe Gomes
 
 **`Supervisor de E-commerce e Desenvolvedor Front-end`**
 
@@ -8,10 +7,10 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
 
 <br/>
 # Soft Skills que adiquiri ao longo dos anos:
-💡 Extremamente criativo
-🧠 Pensamento lógico para solucionar problemas críticos e criar soluções e processos
-⏱️ Psicologicamente preparado em lidar com pressão, prazos e metas
-🎯 Perfil análítico e estratégico para acelerar nossos resultados e conquistar objetivos
++ 💡 Extremamente criativo
++ 🧠 Pensamento lógico para solucionar problemas críticos e criar soluções e processos
++ ⏱️ Psicologicamente preparado em lidar com pressão, prazos e metas
++ 🎯 Perfil análítico e estratégico para acelerar nossos resultados e conquistar objetivos
 
 <br/>
 <br/>
