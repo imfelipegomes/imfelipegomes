@@ -1,4 +1,4 @@
-# 🧔🏻‍♂️ Felipe Gomes
+# Hello, World!🌎 - ✌️🧔🏻‍♂️ Eu sou Felipe Gomes
 
 **`Supervisor de E-commerce e Desenvolvedor Front-end`**
 
@@ -162,7 +162,7 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 6px;" 
+    style="padding-right: 8px;" 
     src="https://github-readme-stats.vercel.app/api?username=imfelipegomes&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
 
