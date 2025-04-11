@@ -8,7 +8,7 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
 💡 Extremamente criativo<br>
 🧠 Pensamento lógico para solucionar problemas críticos e criar soluções e processos<br>
 ⏱️ Psicologicamente preparado em lidar com pressão, prazos e metas<br>
-🎯 Perfil análítico e estratégico para acelerar nossos resultados e conquistar objetivos<br>
+🎯 Perfil análítico e estratégico para acelerar resultados e conquistar objetivos<br>
 
 <br/>
 <br/>
