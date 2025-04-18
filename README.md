@@ -1,14 +1,16 @@
 # Hello, World! 🌎✌️🧔🏻‍♂️ Eu sou Felipe Gomes
 
-**`Supervisor de E-commerce e Desenvolvedor Front-end`**
+**`Supervisor de E-commerce e Desenvolvedor Full Stack`**
 
 Me chamo Felipe Alves Gomes de Lima, tenho 28 anos e sou natural de Santo André-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAmérica | Descomplica, com conclusão prevista para Dez/2025.
-Estou em processo de migração de carreira para desenvolvimento. Minha área atual é como profissional de E-commerce, tenho 7 anos de experiência na área e meu cargo atualmente é de Supervisor. Com minha experiência de e-commerce ao longo dos últimos 7 anos, vivenciei e participei de projetos criados do absoluto zero, como criação de sites, lojas virtuais e blogs, além de sempre estar em contato com agências de desenvolvimento web e ver de perto todo processo de criação com código e design ux/ui. Com isso, adquiri muita experiência com plataformas de Marketplaces, Lojas Virtuais, ERPs, WordPress, Elementor, Divi, HTML, CSS e JavaScript.
+Estou em processo de migração de carreira para desenvolvimento. Minha área atual é como Supervisor de E-commerce com mais de 7 anos de experiência, tendo conhecimentos sólidos na área. Tenho muita experiência com integração, implantação, configuração e suporte técnico de ferramentas e softwares de gestão, visto que, uma das minhas experiências foi como Consultor Técnico de Marketplaces. Vivenciei e participei de projetos criados do absoluto zero, como lojas virtuais, sites e blogs, além de sempre estar em contato com agências de desenvolvimento web e ver de perto todo processo de criação com código. Com isso, adquiri muita experiência com plataformas de Marketplaces, Lojas Virtuais, ERPs, WordPress + Elementor, HTML, CSS, JavaScript, PHP e MySQL.
 
 💡 Extremamente criativo<br>
 🧠 Pensamento lógico para solucionar problemas críticos, criar soluções e processos<br>
 ⏱️ Psicologicamente preparado para lidar com pressão, prazos e metas<br>
 🎯 Perfil análítico e estratégico para tomada de decisões<br>
+🗣️ Comunicação clara e efetiva com equipe e clientes<br>
+
 
 <br/>
 <br/>
@@ -51,15 +53,6 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -83,15 +76,6 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <img 
@@ -121,6 +105,24 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
+<img
+    align="left" 
+    alt="WordPress" 
+    title="WordPress"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
+/>
+
+<img
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
 <img 
     align="left" 
     alt="JQuery" 
@@ -146,15 +148,6 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
-<img
-    align="left" 
-    alt="WordPress" 
-    title="WordPress"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
 />
 
 <br/>
