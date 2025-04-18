@@ -125,6 +125,15 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
 
 <img 
     align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -139,15 +148,6 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
 <br/>
