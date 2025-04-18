@@ -152,11 +152,11 @@ Estou em processo de migração de carreira para desenvolvimento. Minha área at
 
 <img
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Elementor" 
+    title="Elementor"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elementor_Logo.svg/1200px-Elementor_Logo.svg.png" alt="Elementor" width="30" height="30"
+    src="<img src="https://www.svgrepo.com/download/353880/elementor.svg" width="30"/>"
   />
 
 <br/>
