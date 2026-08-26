@@ -1,14 +1,29 @@
 # Hello, World! 🌎✌️🧔🏻‍♂️ Eu sou Felipe Gomes
 
-**`Supervisor de E-commerce e Desenvolvedor Full Stack`**
+**`Supervisor de E-commerce e Marketplaces e Desenvolvedor Full Stack Java`**
 
-Me chamo Felipe Alves Gomes de Lima, tenho 28 anos e sou natural de Santo André-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAmérica | Descomplica, com conclusão prevista para Dez/2025.
+Estou me formando em Análise e Desenvolvimento de Sistemas (Dez 2026) e estou direcionando minha carreira para Desenvolvimento de Software, com foco em Java e Backend.
 
-Estou em processo de migração de carreira para desenvolvimento. Minha área atual é E-commerce, onde atuo como Supervisor de uma operação com mais de 23 pessoas e mais de 7 anos de experiência no ramo.
+Antes de entrar de forma mais profunda no desenvolvimento, construí minha trajetória profissional no e-commerce e negócios digitais, trabalhando com marketplaces e plataformas como Mercado Livre, Shopee, TikTok Shop, Shopify, VTEX, Tray e Nuvemshop. Essa experiência me proporcionou uma visão prática de negócios, processos, produtos digitais e necessidades reais de usuários.
 
-Tenho muita experiência com integração, implantação, configuração e suporte técnico de ferramentas e softwares de gestão, vendas, CRM, Marketplaces e Lojas Virtuais.
+Atualmente, estou aprofundando meus conhecimentos em programação e Engenharia de Software, transformando meus estudos em projetos práticos e aplicações reais.
 
-Vivenciei e participei de projetos criados do absoluto zero, como lojas virtuais, sites, blogs e sistemas, além de sempre estar em contato com agências de desenvolvimento web/marketing e ver de perto todo processo de criação com código. Com isso, adquiri muita experiência com WordPress + Elementor, HTML, CSS, JavaScript, PHP e MySQL, o que fomentou ainda mais o meu desejo de migrar de carreira.
+Atualmente estudando e desenvolvendo conhecimentos em:
+☕ Java e Programação Orientada a Objetos
+🌐 APIs REST e desenvolvimento Backend
+🗄️ SQL e bancos de dados relacionais
+🌱 Spring Boot
+🔧 Git e GitHub
+🧪 Boas práticas e testes de software
+☁️ Cloud Computing
+
+Meu objetivo:
+
+Construir uma carreira sólida em Engenharia de Software, evoluindo continuamente como desenvolvedor e participando da construção de sistemas escaláveis, confiáveis e que resolvam problemas reais.
+
+Acredito que minha combinação de conhecimento técnico + experiência de negócio + visão analítica me permite enxergar o desenvolvimento não apenas pelo código, mas também pelo problema que a solução precisa resolver.
+
+🚀 Sempre aprendendo, construindo e evoluindo.
 
 💡 Extremamente criativo<br>
 🧠 Pensamento lógico para solucionar problemas críticos, criar soluções e processos<br>
